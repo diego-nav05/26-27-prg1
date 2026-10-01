@@ -1,7 +1,7 @@
-#Directorios
+Directorios:
  
  El volumen de la unidad C es OS
- El n£mero de serie del volumen es: 4EFD-BEF2
+ El nÂ£mero de serie del volumen es: 4EFD-BEF2
 
  Directorio de C:\Users\diego.garcia5\misRepos\26-27-prg1\evaluaciones\retos\garciaDiego\CarpetaOrigen
 
