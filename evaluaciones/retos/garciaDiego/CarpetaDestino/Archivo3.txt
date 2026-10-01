@@ -1,14 +1,1 @@
-Directorios:
- 
- El volumen de la unidad C es OS
- El n£mero de serie del volumen es: 4EFD-BEF2
-
- Directorio de C:\Users\diego.garcia5\misRepos\26-27-prg1\evaluaciones\retos\garciaDiego\CarpetaOrigen
-
-01/10/2026  13:12    <DIR>          .
-01/10/2026  12:58    <DIR>          ..
-01/10/2026  13:07                 9 Archivo1.txt
-01/10/2026  13:11                10 Archivo2.txt
-01/10/2026  13:12                 0 Archivo3.txt
-               3 archivos             19 bytes
-               2 dirs  86.357.131.264 bytes libres
+Texto final paso 5 - Archivo 3
