@@ -1,3 +1,5 @@
+#Directorios
+ 
  El volumen de la unidad C es OS
  El n£mero de serie del volumen es: 4EFD-BEF2
 
