@@ -12,7 +12,7 @@ class DevolverCambioCentimos {
         System.out.println("El cliente ha de abonar una cantidad igual o superior. Introduzca la cantidad abonada:");
         final double CANTIDAD_ABONADA = scanner.nextDouble();
         int cantidadADevolverEnteros = (int) (CANTIDAD_ABONADA - PRECIO_TOTAL);
-        int cantidadADevolverCentimos = (int)((CANTIDAD_ABONADA - PRECIO_TOTAL- cantidadADevolverEnteros) * 100);
+        int cantidadADevolverCentimos = (int)((CANTIDAD_ABONADA - PRECIO_TOTAL- cantidadADevolverEnteros) * 100 + 0.5); //Aquí he puesto el apaño
         final int VALOR_BILLETE_100 = 100;
         final int VALOR_BILLETE_50 = 50;
         final int VALOR_BILLETE_20 = 20;
